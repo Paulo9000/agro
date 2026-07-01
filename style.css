@@ -1,4 +1,4 @@
-/* Reset básico */
+/* Reset basico */
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@
     font-family: Arial, sans-serif;
 }
 
-/* Corpo da página */
+/* Corpo da pagina */
 body {
     background-color: #f5f5f5;
     color: #ffffff;
@@ -14,13 +14,13 @@ body {
     background-image: url('https://www.bosch.com.br/media/stories/agronegocio/agricultura_sustentavel/agricultura-sustentvel-como-produzir-comida-para-o-mundo-todo-e-preservar-o-meio-ambiente_res_1280x720.webp'); /* coloque aqui o link direto */
     background-size: cover;       /* cobre toda a tela */
     background-position: center;  /* centraliza a imagem */
-    background-repeat: no-repeat; /* evita repetição */
-    background-attachment: fixed; /* deixa fixa ao rolar a página */
+    background-repeat: no-repeat; /* evita repeticao */
+    background-attachment: fixed; /* deixa fixa ao rolar a pagina */
     line-height: 1.6;
     
 }
 
-/* Cabeçalho */
+/* Cabecalho */
 header {
     background-color: #0000006c;
     color: rgb(255, 255, 255);
@@ -46,7 +46,7 @@ header nav ul li a:hover {
     text-decoration: underline;
 }
 
-/* Seções principais */
+/* Secoes principais */
 main {
     padding: 20px;
 }
@@ -60,7 +60,7 @@ h2 {
     margin-bottom: 10px;
 }
 
-/* Rodapé */
+/* Rodape */
 footer {
     background-color: #000000;
     color: rgb(255, 254, 254);
